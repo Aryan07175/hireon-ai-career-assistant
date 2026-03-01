@@ -38,7 +38,5 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 | Layer            | Technology                                      |
 |------------------|------------------------------------------------|
 | Frontend         | Next.js 15, React 19, Tailwind CSS, Shadcn UI   |
-| Backend          | Prisma ORM, Neon (PostgreSQL), Inngest          |
-| Authentication  | Clerk                                          |
-| AI Integration  | Google Gemini API                               |
+
                     
