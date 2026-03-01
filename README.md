@@ -41,4 +41,4 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 | Backend          | Prisma ORM, Neon (PostgreSQL), Inngest          |
 | Authentication  | Clerk                                          |
 | AI Integration  | Google Gemini API                               |
-| Charts & UI     | Recharts, MDX Editor                      
+                    
