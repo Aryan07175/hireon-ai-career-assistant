@@ -41,39 +41,4 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 | Backend          | Prisma ORM, Neon (PostgreSQL), Inngest          |
 | Authentication  | Clerk                                          |
 | AI Integration  | Google Gemini API                               |
-| Charts & UI     | Recharts, MDX Editor                            |
-
----
-
-## 🏗️ Architecture Overview
-<img width="1359" height="455" alt="image" src="https://github.com/user-attachments/assets/e11e3da4-4366-40c6-8684-cc9e48239f43" />
-
-<img width="1147" height="632" alt="image" src="https://github.com/user-attachments/assets/1d322372-ca62-4876-9256-4ddf2a59bc9f" />
-
-
-<img width="1106" height="634" alt="image" src="https://github.com/user-attachments/assets/a63ef100-c859-4cd6-a8bd-33d54e3d86a9" />
- Client (Next.js)
-     ↓
-     
-API Routes (Server Actions / REST)
-     ↓
-Prisma ORM
-     ↓
-Neon PostgreSQL
-     ↓
-Gemini API (AI)
-
-
-DATABASE_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-
-npm run dev
+| Charts & UI     | Recharts, MDX Editor                      
