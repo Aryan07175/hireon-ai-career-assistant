@@ -31,8 +31,6 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
   - Clean editor experience for resumes and letters.
   - One-click PDF export support.
 
----
-
 
 
                     
