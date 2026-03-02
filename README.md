@@ -33,10 +33,6 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
 
 ---
 
-## 🧑‍💻 Tech Stack
 
-| Layer            | Technology                                      |
-|------------------|------------------------------------------------|
-| Frontend         | Next.js 15, React 19, Tailwind CSS, Shadcn UI   |
 
                     
