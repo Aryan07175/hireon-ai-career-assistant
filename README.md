@@ -25,10 +25,7 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
   - Identify strengths and improvement areas.
 
 - 📬 **Weekly Industry Insights**
-  - Automated background updates on in-demand skills, job trends, and salary insights.
-  - [
-  {"point": [527, 461], "label": "read me"}
-]
+  
 
   
 
