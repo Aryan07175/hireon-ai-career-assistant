@@ -20,9 +20,6 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
   - Role-specific interview questions.
   - AI feedback, scoring, and improvement suggestions.
 
-- 📊 **Performance Dashboard**
-  - Visualize interview scores and track progress over time.
-  - Identify strengths and improvement areas.
 
   
   
