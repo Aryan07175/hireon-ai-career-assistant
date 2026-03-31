@@ -16,9 +16,7 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
   - Personalized cover letters generated directly from job descriptions.
   - Optimized tone, structure, and keywords.
 
-- 🎤 **Mock Interviews**
-  - Role-specific interview questions.
-  - AI feedback, scoring, and improvement suggestions.
+
 
 
   
