@@ -12,9 +12,6 @@ Powered by **Google’s Gemini API** and built using modern web technologies, Hi
   - Generate ATS-compliant resumes based on skills, experience, and target roles.
   - Editable Markdown format with PDF export.
 
-- 📄 **Cover Letter Generator**
-  - Personalized cover letters generated directly from job descriptions.
-  - Optimized tone, structure, and keywords.
 
 
 
